@@ -1,23 +1,24 @@
-# Adrina Ata | Biotechnology Research Blog
+# Adrina Ata
 
-Welcome to my scientific portfolio.
+## Scientific Portfolio
 
-This repository contains my research notes, literature reviews, and scientific articles focused on biotechnology, molecular biology, bioinformatics, and emerging biomedical technologies.
+Welcome to my research portfolio, where I share scientific articles, literature reviews, and research notes exploring topics across life sciences and emerging technologies.
 
 ## Research Interests
 
-- Biotechnology
-- Molecular Biology
-- Cancer Research
-- Gene Editing & CRISPR Technology
-- Bioinformatics
-- AI Applications in Biomedical Science
+🧬 Biotechnology  
+🧪 Molecular Biology  
+💻 Bioinformatics  
+🧠 Biomedical Sciences  
+🔬 Cancer Research  
+🤖 Artificial Intelligence in Healthcare  
 
 ## About Me
 
-I am a biotechnology enthusiast interested in exploring recent discoveries in biomedical sciences through scientific writing and literature analysis.
+I am interested in exploring scientific discoveries through literature analysis and scientific writing, with a focus on understanding how modern technologies contribute to advances in biology and medicine.
 
-## Articles
+## Research Articles
+
 
 Coming soon:
 - Mechanical Memory of Cells and Its Potential Role in Cancer Therapy
