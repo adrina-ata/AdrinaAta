@@ -1,5 +1,6 @@
 # When Cells Do Not Forget Pressure: A New Approach in Cancer Therapy
 
+
 ## Introduction
 
 For many years, cancer has been primarily considered a genetic disease. However, recent studies have revealed that physical forces from the cellular microenvironment also play a crucial role in cancer progression. In many tumors, the surrounding extracellular matrix becomes stiffer than normal tissue, sending signals to cancer cells that promote their growth, survival, and invasion. Scientists are now investigating how cells sense these mechanical forces and convert them into biological signals.
